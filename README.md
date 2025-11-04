@@ -1,2 +1,2 @@
 # Repository1
-First Repository for learning hoe Github works
+First Repository for learning how Github works
